@@ -1,0 +1,26 @@
+https://www.enjoyalgorithms.com/blog/sentiment-analysis-using-machine-learning
+
+https://www.analyticsvidhya.com/blog/2022/02/sentiment-analysis-of-imdb-reviews-with-nlp/
+
+https://www.datascience2000.in/2021/05/movies-review-sentiment-analysis-in-nlp.html
+
+https://github.com/thisislohith6/Sentiment-Analysis-of-Movie-review-dataset
+
+https://realpython.com/sentiment-analysis-python/
+https://github.com/Ankit152/IMDB-sentiment-analysis
+https://github.com/SudharshanShanmugasundaram/Sentiment-Analysis-on-IMDB-Dataset
+https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdbLSTM.ipynb
+https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdbSentimentAnalysis.ipynb
+https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/notebook
+
+************streamlit
+https://levelup.gitconnected.com/sentiment-analysis-642b935ab6f9
+https://medium.com/@jerryfadugba/sentiment-analysis-classification-using-2-different-ml-methods-1ba01021dae7
+https://github.com/SudharshanShanmugasundaram/Sentiment-Analysis-on-IMDB-Dataset/blob/master/Sentiment%20Analysis.ipynb
+https://levelup.gitconnected.com/sentiment-analysis-642b935ab6f9
+https://medium.com/analytics-vidhya/building-a-twitter-sentiment-analysis-app-using-streamlit-d16e9f5591f8
+
+
+Sandip Dhar
+https://digitaltesseract.com/abstractive-text-summarization/
+https://github.com/soum-sr/EmojifySentences

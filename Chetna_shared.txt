@@ -1,0 +1,113 @@
+Create word embeddings:
+https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8
+
+Sequential Vs functional model in keras
+https://becominghuman.ai/sequential-vs-functional-model-in-keras-20684f766057
+
+Gensim word2vec
+https://www.askpython.com/python-modules/gensim-word2vec
+
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+
+Deep learning keras tf
+https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/47_BERT_text_classification/BERT_email_classification-handle-imbalance.ipynb
+
+BERT 
+https://tfhub.dev/google/collections/bert/1
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+BERT,ROBERT, DistilBERT
+https://jalammar.github.io/illustrated-bert/
+
+https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8
+BERT, RoBERTa, DistilBERT, XLNet — which one to use?
+
+
+https://github.com/dreji18/Clustering-with-Bert-Embeddings/blob/main/Clustering%20with%20Bert%20Embeddings.ipynb
+
+https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/
+
+
+
+
+https://github.com/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb
+
+
+https://becominghuman.ai/sequential-vs-functional-model-in-keras-20684f766057
+
+Preprocessing is not needed when using pre-trained language representation models like BERT. 
+Training BERT is usually on raw text, using WordPeace tokenizer for BERT. 
+So no stemming or lemmatization or similar NLP tasks. Lemmatization assumes morphological word analysis to return the base form of a word, while stemming is brute removal of the word endings or affixes in general
+
+
+https://www.kaggle.com/code/parulpandey/eda-and-preprocessing-for-bert
+https://www.tensorflow.org/text/guide/bert_preprocessing_guide
+https://analyticsindiamag.com/a-guide-to-text-preprocessing-using-bert/
+https://medium.com/analytics-vidhya/text-classification-with-bert-using-transformers-for-long-text-inputs-f54833994dfd
+
+
+https://www.analyticsvidhya.com/blog/2021/10/end-to-end-predictive-analysis-on-airbnb-listings-data/
+
+https://data-dive.com/binary-text-classification-predict-ratings-part3-transformer-neural-network-bert
+
+
+
+https://github.com/dbmdz/berts
+https://huggingface.co/oliverguhr/german-sentiment-bert
+https://huggingface.co/bert-base-german-cased
+https://www.youtube.com/results?search_query=german+language+classification+using+BERT
+https://metatext.io/models/bert-base-german-cased
+
+https://github.com/adam0ling/twitter_sentiment
+https://github.com/adam0ling/twitter_sentiment/blob/main/3_BERT.ipynb
+https://www.kaggle.com/code/deepakat002/text-classification-without-training-data-bert/notebook
+https://tfhub.dev/google/collections/bert/1
+
+*****************************************
+multi language model
+https://tfhub.dev/tensorflow/bert_multi_cased_L-12_H-768_A-12/4
+this should be used
+https://data-dive.com/binary-text-classification-predict-ratings-part3-transformer-neural-network-bert
+https://auto.gluon.ai/0.4.0/tutorials/text_prediction/multilingual_text.html
+
+
+https://github.com/susanli2016/NLP-with-Python/blob/master/Text_Classification_With_BERT.ipynb
+
+
+from transformers import BertForSequenceClassification, BertTokenizer
+
+tokenizer = BertTokenizer.from_pretrained("bert-base-german-dbmdz-uncased")
+model = BertForSequenceClassification.from_pretrained("bert-base-german-dbmdz-uncased", num_labels=6)
+
+
+https://www.philschmid.de/bert-text-classification-in-a-different-language
+
+https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
+
+
+
+https://towardsdatascience.com/machine-learning-multiclass-classification-with-imbalanced-data-set-29f6a177c1a
+
+https://github.com/theartificialguy/NLP-with-Deep-Learning/blob/master/BERT/Multi-Class%20classification%20TF-BERT/multi_class.ipynb
+https://www.youtube.com/watch?v=pjtnkCGElcE
+
+
+https://www.youtube.com/watch?v=dkpS2g4K08s
+
+
+
+https://www.kaggle.com/code/perevalov540/multiclass-text-classification-with-transformers/notebook
+https://www.analyticsvidhya.com/blog/2021/12/multiclass-classification-using-transformers/
+
+
+
+
+
+
+Latest
+https://www.dominodatalab.com/blog/classify-things-multiple-labels
+https://www.kaggle.com/questions-and-answers/102791
+https://keras.io/examples/nlp/multi_label_classification/
+https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/
+https://medium.com/analytics-vidhya/multi-label-text-classification-using-transformers-bert-93460838e62b
+vhttps://www.kaggle.com/code/aakash4235/multi-label-classification-using-onevsrest
